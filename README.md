@@ -26,4 +26,5 @@ git clone https://github.com/vakcinio/Nautilus-hyprpaper-extension.git
 cd Nautilus-hyprpaper-extension
 meson setup build
 sudo ninja -C build install
+nautilus -q
 ```
