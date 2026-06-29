@@ -1,0 +1,16 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nautilus_hyprpaper 1.0\n"
+"POT-Creation-Date: 2026-06-29 00:00+0000\n"
+"PO-Revision-Date: 2026-06-29 00:00+0000\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Set as Hyprland wallpaper"
+msgstr "Установить как обои Hyprland"
+
+msgid "Sets the Hyprland wallpaper using hyprpaper"
+msgstr "Устанавливает обои Hyprland используя hyprpaper"
